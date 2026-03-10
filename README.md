@@ -24,12 +24,12 @@ VOID Music Player is a modern, high-performance Android music player built entir
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/playlist.png" width="30%" alt="Playlist Screen" />
-  <img src="screenshots/player.png" width="30%" alt="Player Screen" />
-  <img src="screenshots/visualizer.png" width="30%" alt="Visualizer View" />
+  <img src="screenshots/playlist.jpg" width="30%" alt="Playlist Screen" />
+  <img src="screenshots/player.jpg" width="30%" alt="Player Screen" />
+  <img src="screenshots/visualizer.jpg" width="30%" alt="Visualizer View" />
 </p>
 
-> **Note:** Create a `screenshots` folder in your project root and add `playlist.png`, `player.png`, and `visualizer.png` to see them here.
+[//]: # (> **Note:** Place `playlist.jpg`, `player.jpg`, and `visualizer.jpg` inside the `screenshots` folder to see them here.)
 
 ## 🚀 Getting Started
 
