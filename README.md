@@ -62,7 +62,7 @@ This project was inspired by the creative work of the Android community. Special
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is used for educational purpose. No commercial rights yet.
 
 ---
 *Created with ❤️ for music lovers.*
